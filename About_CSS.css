@@ -136,6 +136,8 @@ header{
 }
 
 .First_About_Image{
+  width: 504px;
+  height: 504px;
   border: 2px solid  rgb(255, 255, 255) ;
 }
 
@@ -334,8 +336,8 @@ header{
 }
 
 .Third_About_Image{
-  width: 500px;
-  height: 500px;
+  width: 504px;
+  height: 504px;;
   border: 2px solid  rgb(255, 255, 255) ;
 }
 

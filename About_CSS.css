@@ -136,8 +136,8 @@ header{
 }
 
 .First_About_Image{
-  width: 504px;
-  height: 504px;
+  width: 414px;
+  height: 414px;
   border: 2px solid  rgb(255, 255, 255) ;
 }
 
@@ -237,8 +237,8 @@ header{
   background-color: black;
 }
 .Second_About_Image{
-  width: 504px;
-  height: 504px;
+  width: 414px;
+  height: 414px;
   float: right;
   border: 2px solid  rgb(255, 255, 255);
 }
@@ -336,8 +336,8 @@ header{
 }
 
 .Third_About_Image{
-  width: 504px;
-  height: 504px;;
+  width: 414px;
+  height: 414px;;
   border: 2px solid  rgb(255, 255, 255) ;
 }
 
